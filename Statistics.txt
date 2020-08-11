@@ -1,0 +1,194 @@
+Statistics:
+
+
+Index of item = 0
+
+Enque time = 0.51498 nanoseconds
+Deque time = 0.434216 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 1
+
+Enque time = 0.237082 nanoseconds
+Deque time = 0.227529 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 2
+
+Enque time = 0.234477 nanoseconds
+Deque time = 0.225792 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 3
+
+Enque time = 0.233608 nanoseconds
+Deque time = 0.225792 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 4
+
+Enque time = 0.233608 nanoseconds
+Deque time = 0.230135 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 5
+
+Enque time = 0.233608 nanoseconds
+Deque time = 0.224056 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 6
+
+Enque time = 0.236214 nanoseconds
+Deque time = 0.225792 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 7
+
+Enque time = 0.257924 nanoseconds
+Deque time = 0.225792 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 8
+
+Enque time = 0.23274 nanoseconds
+Deque time = 0.225792 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 9
+
+Enque time = 0.231003 nanoseconds
+Deque time = 0.224924 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 10
+
+Enque time = 0.234477 nanoseconds
+Deque time = 0.223187 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 11
+
+Enque time = 0.235345 nanoseconds
+Deque time = 0.224924 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 12
+
+Enque time = 0.234477 nanoseconds
+Deque time = 0.224056 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 13
+
+Enque time = 0.236214 nanoseconds
+Deque time = 0.224056 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 14
+
+Enque time = 0.234477 nanoseconds
+Deque time = 0.224056 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 15
+
+Enque time = 0.234477 nanoseconds
+Deque time = 0.229266 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 16
+
+Enque time = 0.233608 nanoseconds
+Deque time = 0.224924 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 17
+
+Enque time = 0.233608 nanoseconds
+Deque time = 0.224924 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 18
+
+Enque time = 0.235345 nanoseconds
+Deque time = 0.224924 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 19
+
+Enque time = 0.234477 nanoseconds
+Deque time = 0.224924 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 20
+
+Enque time = 0.233608 nanoseconds
+Deque time = 0.224924 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 21
+
+Enque time = 0.235345 nanoseconds
+Deque time = 0.224056 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 22
+
+Enque time = 0.234477 nanoseconds
+Deque time = 0.224056 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 23
+
+Enque time = 0.233608 nanoseconds
+Deque time = 0.225792 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 24
+
+Enque time = 0.233608 nanoseconds
+Deque time = 0.222319 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 25
+
+Enque time = 0.234477 nanoseconds
+Deque time = 0.224924 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 26
+
+Enque time = 0.234477 nanoseconds
+Deque time = 0.222319 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 27
+
+Enque time = 0.236214 nanoseconds
+Deque time = 0.224924 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 28
+
+Enque time = 0.235345 nanoseconds
+Deque time = 0.22145 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Index of item = 29
+
+Enque time = 0.236214 nanoseconds
+Deque time = 0.224924 nanoseconds
+Inter-thread moving time = 772 nanoseconds
+
+Max enque time = 0.51498 nanoseconds
+Max deque time = 0.434216 nanoseconds
+Max Inter-thread moving time = 772 nanoseconds
+
+Min enque time = 0.231003 nanoseconds
+Min deque time = 0.22145 nanoseconds
+Min Inter-thread moving time = 772 nanoseconds
+
+Average enque time = 0.244464 nanoseconds
+Average deque time = 0.231871 nanoseconds
+Average Inter-thread moving time = 772 nanoseconds
