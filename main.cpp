@@ -76,23 +76,23 @@ int main()
                 
                 std::cout << std::endl << "Index of item = " << i << std::endl;
                 
-                std::cout << std::endl << "Enque time = " << statArray[i].enqTime/processorSpeedMHZ << " nanoseconds " << std::endl;
-                std::cout << "Deque time = " << statArray[i].deqTime/ processorSpeedMHZ << " nanoseconds " << std::endl;
+                std::cout << std::endl << "Enque time = " << statArray[i].enqTime/(double)processorSpeedMHZ << " nanoseconds " << std::endl;
+                std::cout << "Deque time = " << statArray[i].deqTime/(double)processorSpeedMHZ << " nanoseconds " << std::endl;
                 std::cout << "Inter-thread moving time = " << statArray[i].interThreadMoveTime/ processorSpeedMHZ << " nanoseconds " << std::endl;
                 
                
             }
             
-            std::cout << std::endl << "Max enque time = " << MaxEnqTime / processorSpeedMHZ << " nanoseconds " << std::endl;
-            std::cout << "Max deque time = " << MaxDeqTime / processorSpeedMHZ << " nanoseconds " << std::endl;
+            std::cout << std::endl << "Max enque time = " << MaxEnqTime /(double)processorSpeedMHZ << " nanoseconds " << std::endl;
+            std::cout << "Max deque time = " << MaxDeqTime /(double)processorSpeedMHZ << " nanoseconds " << std::endl;
             std::cout << "Max Inter-thread moving time = " << MaxInterThreadTime / processorSpeedMHZ << " nanoseconds " << std::endl;
             
-            std::cout << std::endl << "Min enque time = " << MinEnqTime / processorSpeedMHZ << " nanoseconds " << std::endl;
-            std::cout << "Min deque time = " << MinDeqTime / processorSpeedMHZ << " nanoseconds " << std::endl;
+            std::cout << std::endl << "Min enque time = " << MinEnqTime /(double)processorSpeedMHZ << " nanoseconds " << std::endl;
+            std::cout << "Min deque time = " << MinDeqTime /(double)processorSpeedMHZ << " nanoseconds " << std::endl;
             std::cout << "Min Inter-thread moving time = " << MinInterThreadTime / processorSpeedMHZ << " nanoseconds " << std::endl;
             
-            std::cout << std::endl << "Average enque time = " << (sumEnqTime / sizeQueue)/ processorSpeedMHZ << " nanoseconds " << std::endl;
-            std::cout << "Average deque time = " << (sumDeqTime / sizeQueue)/ processorSpeedMHZ << " nanoseconds " << std::endl;
+            std::cout << std::endl << "Average enque time = " << (sumEnqTime / sizeQueue)/(double)processorSpeedMHZ << " nanoseconds " << std::endl;
+            std::cout << "Average deque time = " << (sumDeqTime / sizeQueue)/ (double)processorSpeedMHZ << " nanoseconds " << std::endl;
             std::cout << "Average Inter-thread moving time = " << (sumInterThreadTime / sizeQueue)/ processorSpeedMHZ << " nanoseconds " << std::endl;
             
        }
